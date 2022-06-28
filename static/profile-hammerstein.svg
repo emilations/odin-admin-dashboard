@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="60" height="60" viewBox="0 0 60 60" xml:space="preserve">
+<desc>Created with Fabric.js 4.2.0</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="transparent"></rect>
+<g transform="matrix(0 0 0 0 0 0)" id="f98862b3-6dc2-46bb-8f90-19d0da3abfee"  >
+</g>
+<g transform="matrix(1 0 0 1 30 30)" id="3ef3c188-be8b-4b81-af25-e4f670dea53d"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-30" y="-30" rx="0" ry="0" width="60" height="60" />
+</g>
+<g transform="matrix(0.77 0 0 0.77 30.1 30.1)" id="b1dab28f-12eb-481a-9fd3-ea8fa0bac0a1"  >
+<circle style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(101,101,101); fill-rule: nonzero; opacity: 0.38;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="35" />
+</g>
+<g transform="matrix(1 0 0 1 30 30)" id="657f71bd-9c1a-458d-8b42-953d2c3a8b28"  >
+	<image style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAABLxJREFUWEftll9Mk1cYxp/z/SktEHHgYNHChiyZQESnAfuZmQBtReaWJTgnF2K83nY1l3nJhVdzy+6W3Rq5MMNoZkZgtF8jM24FlAQ2Ab0ANunmcMCASenfc5bz1WJL4etHLMuW9CS9aZ7znl/fPs97DsF/fJGN+Prt9ioGjP4r/IRUKao6vt5ZGwIO2u3nosDnrzY3I7+kZEs4V2Zn8aCrCwJw7pDH88WmAL2NjdcgCC2m3FxUnjgBIgiZhWQM92/cQGBhgde9png8724O0OGYBGPloiyj7MgRFJSVZRTw70ePMOXxgEYiIIRM2lS1YrOAATCWA0JQUFqK8sbGjAL+eusWFqamwBgDCAkqqmo2DMgAod9uj8Y3yBYLqk+dyijgaGcnwn6/VpMBUDwekQB07SHrhuS2w2ETGfPGxdx/+86cySjgyOXLYDSBRxRtiss1YAjQW1/fTiSpnTGm/QBBFFHT1rZ1gIQwwli7zeO5YAzQbu8GIc3g/gAgms3Y29qaUcB7V64gEgzGahKtD92Kqh43BDjgcPgoY7vi4pxt21DZ0pJRwPHr1xFcWlqtSQj5zaaqVkOA/Q5HiDEmx8W/v7YPvQWlGQVsWpzGzgcjz2oSElZU1ZQWsPPkSZN1fj4YT48gyxg62IBhmrL3uYBfJ0EcGLqpzcF4kn2FhTnvXb0aSiyckuK7TufRMKXfcWdoG2UZXx88hhXKUF1uwnHFAmuxpNWYnomi27uM0V/C68Lq6c0CQetQL0h4lYdJothU63K5dQF/dDguCoR8zCglRBQxUV2L7807tD0X3y9EQV7ylbfwhOL8V/PrAqbTNwRnUX7vDlg0ym8Txhj7TPF4zusCeh2OmwSo5xN+ZXsRvtlzGAEaS3P1KzKalVyUlcQ6+HAmgh6vX+vgdosJnx6r1b7/pOcOFgMhXT3XWQSCd8Z/gGVxngPygd2nqGqDLuCA0/mYUvpiKDcf7v31eByzSNpV81IhPlAqNd2X3jH89MdfafdwAXeLc7gPJv8TQBD+VNzu4nQdDFuKiiTpjXqMBAmm/GH4AlHQpzNxo1Pf3lOKtypjD4qu8Yf49v60LqBACKxmEeW5MmpMFPR2H/zz8xFFVVenBy+QEhKv0xmtOX1aEBKeVyEG+FYiGuzkShiT/gj80eRr88PDVdhb8oIGxbvHu5i4cgSCnWYJu3P5R0aFRYJFfOZnSil+7uigNlUV9Ttot7P9Z8/q/npuyZlQNAbsD2M6EMFHjQdQYI6NoqVACBfcQyizSNhtkbUuvWyRwF8Demv40iX+aEhSpXbQAODaQ4gkIaci+TkXnJgAezrjDJkRwJYBCvn5MO1avRk1npDPB7q8bJRN0xkCHGhqmqs4erQwrzgpTLoHSUVFkHbEZmV8RWZnEZmbMwy4PDODCbd77lBvb1KhlL+43+l8kwhCB41ECo1U5341Wa0Q8vKS5Lx7vIu8K0aWIElzlLE2xeXq0Q2JXjEv92dVVbKkrk7zH/dh4uL+4z7E4GDS98NjYylB0DszTa6St24EqNuhLGBCe7IdXMcrz+9BIxFN0GRDst6YyabYqI2yKd6SFNfV6f8B2Zvk/3aTGA2Unm7tsz5jr5lMwG22xj9tr0pHyFLnWAAAAABJRU5ErkJggg==" x="-20" y="-20" width="40" height="40"></image>
+</g>
+</svg>
